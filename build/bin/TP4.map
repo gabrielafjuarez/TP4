@@ -2537,22 +2537,22 @@ END GROUP
 OUTPUT(build/bin/TP4.elf elf32-littlearm)
 LOAD linker stubs
 
-.debug_info     0x0000000000000000     0xa024
- .debug_info    0x0000000000000000      0x803 build/obj/src/bsp.o
- .debug_info    0x0000000000000803      0xb8d build/obj/src/digital.o
- .debug_info    0x0000000000001390      0x192 build/obj/src/main.o
- .debug_info    0x0000000000001522      0x2b5 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
- .debug_info    0x00000000000017d7      0x33e build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_info    0x0000000000001b15     0x14c8 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
- .debug_info    0x0000000000002fdd      0xbce build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
- .debug_info    0x0000000000003bab      0x9c1 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
- .debug_info    0x000000000000456c      0xa65 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
- .debug_info    0x0000000000004fd1     0x1678 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
- .debug_info    0x0000000000006649      0x1e1 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
- .debug_info    0x000000000000682a     0x10f4 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
- .debug_info    0x000000000000791e      0xc7d build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
- .debug_info    0x000000000000859b      0x921 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
- .debug_info    0x0000000000008ebc     0x1168 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+.debug_info     0x0000000000000000     0xa03b
+ .debug_info    0x0000000000000000      0x81a build/obj/src/bsp.o
+ .debug_info    0x000000000000081a      0xb8d build/obj/src/digital.o
+ .debug_info    0x00000000000013a7      0x192 build/obj/src/main.o
+ .debug_info    0x0000000000001539      0x2b5 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+ .debug_info    0x00000000000017ee      0x33e build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_info    0x0000000000001b2c     0x14c8 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .debug_info    0x0000000000002ff4      0xbce build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+ .debug_info    0x0000000000003bc2      0x9c1 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+ .debug_info    0x0000000000004583      0xa65 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
+ .debug_info    0x0000000000004fe8     0x1678 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+ .debug_info    0x0000000000006660      0x1e1 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
+ .debug_info    0x0000000000006841     0x10f4 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+ .debug_info    0x0000000000007935      0xc7d build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+ .debug_info    0x00000000000085b2      0x921 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+ .debug_info    0x0000000000008ed3     0x1168 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
 
 .debug_abbrev   0x0000000000000000     0x1c4d
  .debug_abbrev  0x0000000000000000      0x151 build/obj/src/bsp.o
@@ -2739,13 +2739,13 @@ LOAD linker stubs
  .debug_line    0x0000000000008bd1      0xd58 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
 
 .debug_str      0x0000000000000000    0x1deea
- .debug_str     0x0000000000000000    0x1748b build/obj/src/bsp.o
-                                      0x17672 (size before relaxing)
- .debug_str     0x000000000001748b      0x274 build/obj/src/digital.o
+ .debug_str     0x0000000000000000    0x174ab build/obj/src/bsp.o
+                                      0x17692 (size before relaxing)
+ .debug_str     0x00000000000174ab      0x254 build/obj/src/digital.o
                                       0x1747e (size before relaxing)
- .debug_str     0x00000000000176ff       0x86 build/obj/src/main.o
+ .debug_str     0x00000000000176ff       0x52 build/obj/src/main.o
                                        0x3d84 (size before relaxing)
- .debug_str     0x0000000000017785      0x248 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+ .debug_str     0x0000000000017751      0x27c build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
                                        0x2f55 (size before relaxing)
  .debug_str     0x00000000000179cd     0x4099 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
                                       0x1a8ee (size before relaxing)
