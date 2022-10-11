@@ -41,6 +41,8 @@
 /* === Headers files inclusions =============================================================== */
 #include "bsp.h"
 #include <stdbool.h>
+#include "poncho.h"
+#include "chip.h"
 
 /* === Macros definitions ====================================================================== */
 
@@ -60,49 +62,19 @@
 
 int main(void) {
 
-    int divisor  = 0;
     //bool current_state, last_state = false;
     board_t board = BoardCreate();
+    //CUANDO LLAMAMOS A BOARDCRATE, TENEMOS LA PANTALLA APAGADA
+    //PARA ENCENDER UN NUMERO TENEMOS QUE PONER UN DIFITO EN 1 Y LOS SEGMENTOS TAMBIEN EN 1
+
+    Chip_GPIO_SetPinState(LPC_GPIO_PORT, SEGMENT_A_GPIO, SEGMENT_A_BIT, true);//prendo la salida que corresponde al segmento A
+    //usamos esta funcion para prender un bit
+    Chip_GPIO_SetPinState(LPC_GPIO_PORT, DIGIT_1_GPIO, DIGIT_1_BIT, true);
+    Chip_GPIO_SetPinState(LPC_GPIO_PORT, DIGIT_2_GPIO, DIGIT_2_BIT, true);
 
     while (true) {
         
-        //if (Chip_GPIO_ReadPortBit(LPC_GPIO_PORT, TEC_1_GPIO, TEC_1_BIT) == 0) {
-        if  (GetStateEntradaDigital(board->boton_1_prueba)){
-            ActivarSalidaDigital(board->led_azul);
-            //Chip_GPIO_SetPinState(LPC_GPIO_PORT, LED_B_GPIO, LED_B_BIT, true);
-        } else {
-            DesactivarSalidaDigital(board->led_azul);
-            //Chip_GPIO_SetPinState(LPC_GPIO_PORT, LED_B_GPIO, LED_B_BIT, false);
-        }
-   
-        //current_state = (Chip_GPIO_ReadPortBit(LPC_GPIO_PORT, TEC_2_GPIO, TEC_2_BIT) == 0);
-        //if ((current_state) && (!last_state)) {
-        if(ActivaEntradaDigital(board->boton_2_cambiar)){
-            CambiarSalidaDigital(board->led_uno_rojo);
-            //Chip_GPIO_SetPinToggle(LPC_GPIO_PORT, LED_1_GPIO, LED_1_BIT);
-        }
-        //last_state = current_state;
-
-        
-        //if (Chip_GPIO_ReadPortBit(LPC_GPIO_PORT, TEC_3_GPIO, TEC_3_BIT) == 0) {
-        if(GetStateEntradaDigital(board->boton_3_encender)){
-            ActivarSalidaDigital(board->led_dos_amarillo);
-            //Chip_GPIO_SetPinState(LPC_GPIO_PORT, LED_2_GPIO, LED_2_BIT, true);
-        }
-        
-                
-        //if (Chip_GPIO_ReadPortBit(LPC_GPIO_PORT, TEC_4_GPIO, TEC_4_BIT) == 0) {
-        if(GetStateEntradaDigital(board->boton_4_apagar)){
-            DesactivarSalidaDigital(board->led_dos_amarillo);
-            //Chip_GPIO_SetPinState(LPC_GPIO_PORT, LED_2_GPIO, LED_2_BIT, false);
-        }
-
-        divisor++;
-        if (divisor == 5) {
-            divisor = 0;
-            CambiarSalidaDigital(board->led_tres_verde);
-            //Chip_GPIO_SetPinToggle(LPC_GPIO_PORT, LED_3_GPIO, LED_3_BIT);
-        }
+       
 
         for (int index = 0; index < 100; index++) {
             for (int delay = 0; delay < 25000; delay++) {
