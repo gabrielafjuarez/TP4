@@ -99,12 +99,16 @@ void SeleccionarDigito(uint8_t digito){
 /* === Public function implementation ========================================================= */
 
 int main(void) {
-    uint8_t valor = 0; // lo que veo en pantalla
+   //uint8_t valor = 0; // lo que veo en pantalla
     uint8_t actual = 0; //posicion en la que veo lo que esta en pantalla
-    bool refrescar = true; 
+    //bool refrescar = true; 
         //bool current_state, last_state = false;
+    
+    uint8_t pantalla[4] = {1,2,3,4};
+    //declaramos un arreglo donde decimos que numero se va a ver en que posicion
+
     board_t board = BoardCreate();
-        //CUANDO LLAMAMOS A BOARDCRATE, TENEMOS LA PANTALLA APAGADA
+        //CUANDO LLAMAMOS A BOARDCRWATE, TENEMOS LA PANTALLA APAGADA
     
     //PARA ENCENDER UN NUMERO TENEMOS QUE PONER UN DIGITO EN 1 Y LOS SEGMENTOS TAMBIEN EN 1
     // EscribirNumero(valor);
@@ -115,55 +119,62 @@ int main(void) {
 //    Chip_GPIO_SetPinState(LPC_GPIO_PORT, DIGIT_2_GPIO, DIGIT_2_BIT, true);
 
     while (true) {
-        if (refrescar){
-            refrescar = false;
+        // if (refrescar){
+        //     refrescar = false;
             ApagarPantalla();
-            EscribirNumero(valor);
+            EscribirNumero(pantalla[actual]);
             SeleccionarDigito(actual);
-        }
-
-
-        if (ActivaEntradaDigital(board->establecer_tiempo)){
-            if (valor == 9) {
-                valor = 0;
-            } else {
-                valor = valor + 1;
-            }
-            refrescar = true;
-        }
-        if (ActivaEntradaDigital(board->establecer_alarma)){
-            if (valor == 0) {
-                valor = 9;
-            } else {
-                valor = valor - 1;
-            }
-            refrescar = true;
-        }
-
-        if (ActivaEntradaDigital(board->incrementar)){
-            if (actual == 3) {
-                actual = 0;
-            } else {
-                actual = actual + 1;
-            }
-            refrescar = true;
-        }
-        if (ActivaEntradaDigital(board->decrementar)){
-            if (actual == 0) {
-                actual = 3;
-            } else {
-                actual = actual - 1;
-            }
-            refrescar = true;
+       // }
+        
+        if (actual == 3) {
+            actual = 0;
+        } else {
+            actual = actual + 1;
         }
 
 
 
-        for (int index = 0; index < 100; index++) {
-            for (int delay = 0; delay < 25000; delay++) {
+        // if (ActivaEntradaDigital(board->establecer_tiempo)){
+        //     if (valor == 9) {
+        //         valor = 0;
+        //     } else {
+        //         valor = valor + 1;
+        //     }
+        //     refrescar = true;
+        // }
+        // if (ActivaEntradaDigital(board->establecer_alarma)){
+        //     if (valor == 0) {
+        //         valor = 9;
+        //     } else {
+        //         valor = valor - 1;
+        //     }
+        //     refrescar = true;
+        // }
+
+        // if (ActivaEntradaDigital(board->incrementar)){
+        //     if (actual == 3) {
+        //         actual = 0;
+        //     } else {
+        //         actual = actual + 1;
+        //     }
+        //     refrescar = true;
+        // }
+        // if (ActivaEntradaDigital(board->decrementar)){
+        //     if (actual == 0) {
+        //         actual = 3;
+        //     } else {
+        //         actual = actual - 1;
+        //     }
+        //     refrescar = true;
+        // }
+
+
+
+        //for (int index = 0; index < 100; index++) {
+            for (int delay = 0; delay < 2500; delay++) {
                 __asm("NOP");
             }
-        }
+        //}
     }
 }
 
