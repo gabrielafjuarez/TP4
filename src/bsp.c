@@ -15,7 +15,6 @@
 
 #include "bsp.h"
 #include "chip.h"
-
 #include "poncho.h"
 
 /* === Definicion y Macros privados ======================================== */
@@ -29,11 +28,16 @@ static struct board_s board = {0};
 /* === Definiciones de variables publicas ================================== */
 
 /* === Declaraciones de funciones privadas ================================= */
-void InicializarDigitos(void);
-void InicializarSegmentos(void);
+static void InicializarDigitos(void);
+static void InicializarSegmentos(void);
+static void InicializarZumbador(void);
+static void InicializarTeclas(void);
 
-void InicializarZumbador(void);
-void InicializarTeclas(void);
+static void DisplayInit(void);
+static void ApagarPantalla(void);
+static void EscribirNumero(uint8_t segmentos);
+static void SeleccionarDigito(uint8_t digito);
+
 
 /* === Definiciones de funciones privadas ================================== */
 void InicializarDigitos(void){
@@ -93,13 +97,13 @@ void InicializarSegmentos(void){
 
 }
 
-void InicializarZumbador(){
+void InicializarZumbador(void){
     /**********SALIDAS********/
     Chip_SCU_PinMuxSet(ZUMBADOR_PORT, ZUMBADOR_PIN, SCU_MODE_INBUFF_EN | SCU_MODE_INACT | ZUMBADOR_FUNC);
     board.zumbador = CrearSalidaDigital(ZUMBADOR_GPIO, ZUMBADOR_BIT);//
 }
 
-void InicializarTeclas(){
+void InicializarTeclas(void){
 /*********ENTRADAS*********/
     Chip_SCU_PinMuxSet(TIEMPO_PORT, TIEMPO_PIN, SCU_MODE_INBUFF_EN | SCU_MODE_PULLUP | TIEMPO_FUNC);
     board.establecer_tiempo = CrearEntradaDigital(TIEMPO_GPIO, TIEMPO_BIT,true);//
@@ -119,6 +123,33 @@ void InicializarTeclas(){
     Chip_SCU_PinMuxSet(DECREMENTAR_PORT, DECREMENTAR_PIN, SCU_MODE_INBUFF_EN | SCU_MODE_PULLUP | DECREMENTAR_FUNC);
     board.decrementar = CrearEntradaDigital(DECREMENTAR_GPIO, DECREMENTAR_BIT,true);//
 }
+
+
+void DisplayInit(void){
+    static const struct display_driver_s display_driver = {
+        .ScreenTurnOff = ApagarPantalla,
+        .SegmentsTurnOn = EscribirNumero,
+        .DigitTurnOn = SeleccionarDigito,
+    };
+    board.display = CrearPantalla(4, &display_driver);
+}
+
+//apagar pantalla
+void ApagarPantalla(void){
+    Chip_GPIO_ClearValue(LPC_GPIO_PORT, DIGITS_GPIO, DIGITS_MASK);//pongo en cero los digitos 
+    Chip_GPIO_ClearValue(LPC_GPIO_PORT, SEGMENTS_GPIO, SEGMENTS_MASK);//pongo en cero los segmentos
+}
+
+void EscribirNumero(uint8_t segmentos){
+
+    Chip_GPIO_SetValue(LPC_GPIO_PORT, SEGMENTS_GPIO, segmentos);
+}
+
+void SeleccionarDigito(uint8_t digito){
+    Chip_GPIO_SetValue(LPC_GPIO_PORT, DIGITS_GPIO, (1 << digito)); 
+}
+
+
 /* === Definiciones de funciones publicas ================================== */
 
 board_t BoardCreate(void){
@@ -127,7 +158,8 @@ board_t BoardCreate(void){
     InicializarSegmentos();
     InicializarZumbador();
     InicializarTeclas();
-          
+    DisplayInit();    
+
     return &board;
 }
 

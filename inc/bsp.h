@@ -13,6 +13,7 @@
 /* === Inclusiones de archivos externos ==================================== */
 
 #include "digital.h"
+#include "pantalla.h"
 
 /* === Cabecera C++ ======================================================== */
 #ifdef __cplusplus
@@ -31,6 +32,7 @@ typedef struct board_s {
     digital_input_t decrementar;
     digital_input_t aceptar;
     digital_input_t cancelar;
+    display_t display;
 } const * board_t;
 
 /* === Declaraciones de variables publicas ================================= */

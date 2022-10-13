@@ -42,9 +42,10 @@
 #include "bsp.h"
 #include <stdbool.h>
 #include "pantalla.h"
+#include "poncho.h"
+#include "chip.h"
 
 /* === Macros definitions ====================================================================== */
-
 
 /* === Private data type declarations ========================================================== */
 
@@ -60,16 +61,15 @@
 
 /* === Public function implementation ========================================================= */
 
-int main(void) {
+int main(void) { 
+
     uint8_t numero[4] = {1,2,3,4};
    
     board_t board = BoardCreate();
-    display_t pantalla = CrearPantalla(4);//creo pantalla con 4 digitos
    
-    EscribirPantallaBCD(pantalla, numero, sizeof(numero));
+    EscribirPantallaBCD(board->display, numero, sizeof(numero));
     while (true) {
-        RefrescarPantalla(pantalla);
-
+        RefrescarPantalla(board->display);
 
         //for (int index = 0; index < 100; index++) {
             for (int delay = 0; delay < 2500; delay++) {

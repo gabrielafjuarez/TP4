@@ -7,9 +7,8 @@
 
 /* === Inclusiones de cabeceras ============================================ */
 #include "pantalla.h"
-#include "poncho.h"
 #include <string.h>
-#include "chip.h"
+
 /* === Definicion y Macros privados ======================================== */
 
 #ifndef DISPLAY_MAX_DIGITS
@@ -22,6 +21,7 @@ struct display_s{
     uint8_t digits;
     uint8_t active_digit;
     uint8_t memory[DISPLAY_MAX_DIGITS];//tiene que ser igual o menor que la cantidad de digitos
+    struct display_driver_s driver; 
 };
 
 /* === Definiciones de variables privadas ================================== */
@@ -47,34 +47,20 @@ static const uint8_t DIBUJAR [] = {
 
 /* === Definiciones de funciones privadas ================================== */
 
-//apagar pantalla
-void ApagarPantalla(){
-    Chip_GPIO_ClearValue(LPC_GPIO_PORT, DIGITS_GPIO, DIGITS_MASK);//pongo en cero los digitos 
-    Chip_GPIO_ClearValue(LPC_GPIO_PORT, SEGMENTS_GPIO, SEGMENTS_MASK);//pongo en cero los segmentos
-}
-
-//funcion que de acuerdo al numero que le indico, pinta los segmentos correspondientes 
-//a ese numero
-void EscribirNumero(uint8_t segmentos){
-//DIBUJAR[numero]
-    Chip_GPIO_SetValue(LPC_GPIO_PORT, SEGMENTS_GPIO, segmentos);
-}
-
-void SeleccionarDigito(uint8_t digito){
-    Chip_GPIO_SetValue(LPC_GPIO_PORT, DIGITS_GPIO, (1 << digito)); 
-}
-
-
 /* === Definiciones de funciones publicas ================================== */
 
-display_t CrearPantalla(uint8_t digits){
+display_t CrearPantalla(uint8_t digits, display_driver_t driver){
     display_t display = instances;
 
     display->digits = digits;
     display->active_digit = digits - 1;
     memset(display->memory, 0, sizeof(display->memory)); //limpiar la memoria
+    display->driver.ScreenTurnOff = driver->ScreenTurnOff;
+    display->driver.SegmentsTurnOn = driver->SegmentsTurnOn;
+    display->driver.DigitTurnOn = driver->DigitTurnOn;
     
-    ApagarPantalla();
+    //ApagarPantalla();
+    display->driver.ScreenTurnOff();
 
     return display;
 }
@@ -90,16 +76,18 @@ void EscribirPantallaBCD(display_t display, uint8_t * number, uint8_t size){
 
 
 void RefrescarPantalla(display_t display){
-    ApagarPantalla();
-    
+    //ApagarPantalla();
+    display->driver.ScreenTurnOff();
+
     if (display->active_digit == display->digits - 1) {
         display->active_digit = 0;
     } else {
         display->active_digit = display->active_digit + 1;
     }
-
-    EscribirNumero(display->memory[display->active_digit]);
-    SeleccionarDigito(display->active_digit);
+    display->driver.SegmentsTurnOn(display->memory[display->active_digit]);
+    //EscribirNumero(display->memory[display->active_digit]);
+    display->driver.DigitTurnOn(display->active_digit);
+    //SeleccionarDigito(display->active_digit);
 }
 
 /* === Ciere de documentacion ============================================== */

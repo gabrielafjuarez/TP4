@@ -97,6 +97,7 @@ Discarded input sections
  .group         0x0000000000000000        0xc build/obj/src/bsp.o
  .group         0x0000000000000000        0xc build/obj/src/bsp.o
  .group         0x0000000000000000        0xc build/obj/src/bsp.o
+ .group         0x0000000000000000        0xc build/obj/src/bsp.o
  .text          0x0000000000000000        0x0 build/obj/src/bsp.o
  .data          0x0000000000000000        0x0 build/obj/src/bsp.o
  .bss           0x0000000000000000        0x0 build/obj/src/bsp.o
@@ -240,6 +241,54 @@ Discarded input sections
  .group         0x0000000000000000        0xc build/obj/src/main.o
  .group         0x0000000000000000        0xc build/obj/src/main.o
  .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
+ .group         0x0000000000000000        0xc build/obj/src/main.o
  .text          0x0000000000000000        0x0 build/obj/src/main.o
  .data          0x0000000000000000        0x0 build/obj/src/main.o
  .bss           0x0000000000000000        0x0 build/obj/src/main.o
@@ -251,55 +300,54 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x6a build/obj/src/main.o
  .debug_macro   0x0000000000000000      0x1df build/obj/src/main.o
  .debug_macro   0x0000000000000000       0x22 build/obj/src/main.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
- .group         0x0000000000000000        0xc build/obj/src/pantalla.o
+ .debug_macro   0x0000000000000000       0x3a build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x10 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x79 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x22 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x1c build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x22 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0xd9 build/obj/src/main.o
+ .debug_macro   0x0000000000000000     0x102d build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x11f build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x2c3 build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x112 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x11 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x2a build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x16 build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x2e6 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x82 build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x13d build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x198 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x34 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x58 build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x236 build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x572 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x16 build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x18a build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x88 build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x1b9 build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x1da build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x40 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x1c build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x2e build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x2e build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x22 build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x201 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0xe0 build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x34c build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0xdc build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0xc4 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x8f build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x94 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0xb8 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x4c build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x16 build/obj/src/main.o
+ .debug_macro   0x0000000000000000      0x328 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x3a build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0xd0 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x18 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x22 build/obj/src/main.o
+ .debug_macro   0x0000000000000000       0x40 build/obj/src/main.o
  .group         0x0000000000000000        0xc build/obj/src/pantalla.o
  .group         0x0000000000000000        0xc build/obj/src/pantalla.o
  .group         0x0000000000000000        0xc build/obj/src/pantalla.o
@@ -332,53 +380,6 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x103 build/obj/src/pantalla.o
  .debug_macro   0x0000000000000000       0x6a build/obj/src/pantalla.o
  .debug_macro   0x0000000000000000      0x1df build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x10 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x22 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x22 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x1c build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x22 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0xd9 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000     0x102d build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x11f build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x2c3 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x112 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x11 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x2a build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x16 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x2e6 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x82 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x13d build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x198 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x34 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x58 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x236 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x572 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x16 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x18a build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x88 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x1b9 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x1da build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x40 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x1c build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x2e build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x2e build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x22 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x201 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0xe0 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x34c build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0xdc build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0xc4 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x8f build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x94 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0xb8 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x4c build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x16 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000      0x328 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x3a build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0xd0 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x18 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x22 build/obj/src/pantalla.o
- .debug_macro   0x0000000000000000       0x40 build/obj/src/pantalla.o
  .group         0x0000000000000000        0xc build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
  .text          0x0000000000000000        0x0 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
  .data          0x0000000000000000        0x0 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
@@ -479,7 +480,6 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x6a build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
  .debug_macro   0x0000000000000000      0x1df build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
  .debug_macro   0x0000000000000000       0x22 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000000000       0x73 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
  .debug_macro   0x0000000000000000       0x22 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
  .debug_macro   0x0000000000000000       0x1c build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
  .debug_macro   0x0000000000000000       0x22 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
@@ -2201,25 +2201,25 @@ END GROUP
                 0x000000001a000040                . = ALIGN (0x4)
                 0x000000001a000040                __section_table_start = .
                 0x000000001a000040                __data_section_table = .
-                0x000000001a000040        0x4 LONG 0x1a002840 LOADADDR (.data)
+                0x000000001a000040        0x4 LONG 0x1a002890 LOADADDR (.data)
                 0x000000001a000044        0x4 LONG 0x10000000 ADDR (.data)
                 0x000000001a000048        0x4 LONG 0x38 SIZEOF (.data)
-                0x000000001a00004c        0x4 LONG 0x1a002840 LOADADDR (.data_RAM2)
+                0x000000001a00004c        0x4 LONG 0x1a002890 LOADADDR (.data_RAM2)
                 0x000000001a000050        0x4 LONG 0x10080000 ADDR (.data_RAM2)
                 0x000000001a000054        0x4 LONG 0x0 SIZEOF (.data_RAM2)
-                0x000000001a000058        0x4 LONG 0x1a002840 LOADADDR (.data_RAM3)
+                0x000000001a000058        0x4 LONG 0x1a002890 LOADADDR (.data_RAM3)
                 0x000000001a00005c        0x4 LONG 0x20000000 ADDR (.data_RAM3)
                 0x000000001a000060        0x4 LONG 0x0 SIZEOF (.data_RAM3)
-                0x000000001a000064        0x4 LONG 0x1a002840 LOADADDR (.data_RAM4)
+                0x000000001a000064        0x4 LONG 0x1a002890 LOADADDR (.data_RAM4)
                 0x000000001a000068        0x4 LONG 0x20008000 ADDR (.data_RAM4)
                 0x000000001a00006c        0x4 LONG 0x0 SIZEOF (.data_RAM4)
-                0x000000001a000070        0x4 LONG 0x1a002840 LOADADDR (.data_RAM5)
+                0x000000001a000070        0x4 LONG 0x1a002890 LOADADDR (.data_RAM5)
                 0x000000001a000074        0x4 LONG 0x2000c000 ADDR (.data_RAM5)
                 0x000000001a000078        0x4 LONG 0x0 SIZEOF (.data_RAM5)
                 0x000000001a00007c                __data_section_table_end = .
                 0x000000001a00007c                __bss_section_table = .
                 0x000000001a00007c        0x4 LONG 0x10000038 ADDR (.bss)
-                0x000000001a000080        0x4 LONG 0x60 SIZEOF (.bss)
+                0x000000001a000080        0x4 LONG 0x70 SIZEOF (.bss)
                 0x000000001a000084        0x4 LONG 0x10080000 ADDR (.bss_RAM2)
                 0x000000001a000088        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
                 0x000000001a00008c        0x4 LONG 0x20000000 ADDR (.bss_RAM3)
@@ -2273,7 +2273,7 @@ END GROUP
                 0x000000001a00015a                PROVIDE (__init_array_end = .)
                 0x000000001a00015c                . = ALIGN (0x4)
 
-.text           0x000000001a00015c     0x26dc
+.text           0x000000001a00015c     0x272c
  *(.text*)
  .text.Chip_SCU_PinMuxSet
                 0x000000001a00015c       0x34 build/obj/src/bsp.o
@@ -2285,321 +2285,317 @@ END GROUP
                 0x000000001a000206       0x40 build/obj/src/bsp.o
  .text.Chip_GPIO_SetPinDIR
                 0x000000001a000246       0x42 build/obj/src/bsp.o
- .text.InicializarDigitos
-                0x000000001a000288       0x94 build/obj/src/bsp.o
-                0x000000001a000288                InicializarDigitos
- .text.InicializarSegmentos
-                0x000000001a00031c      0x11c build/obj/src/bsp.o
-                0x000000001a00031c                InicializarSegmentos
- .text.InicializarZumbador
-                0x000000001a000438       0x24 build/obj/src/bsp.o
-                0x000000001a000438                InicializarZumbador
- .text.InicializarTeclas
-                0x000000001a00045c       0xa8 build/obj/src/bsp.o
-                0x000000001a00045c                InicializarTeclas
- .text.BoardCreate
-                0x000000001a000504       0x20 build/obj/src/bsp.o
-                0x000000001a000504                BoardCreate
- .text.Chip_GPIO_SetPinState
-                0x000000001a000524       0x38 build/obj/src/digital.o
- .text.Chip_GPIO_SetPinDIROutput
-                0x000000001a00055c       0x3e build/obj/src/digital.o
- .text.Chip_GPIO_SetPinDIRInput
-                0x000000001a00059a       0x40 build/obj/src/digital.o
- .text.Chip_GPIO_SetPinDIR
-                0x000000001a0005da       0x42 build/obj/src/digital.o
- .text.AsignarSalidaDigital
-                0x000000001a00061c       0x6c build/obj/src/digital.o
-                0x000000001a00061c                AsignarSalidaDigital
- .text.AsignarEntradaDigital
-                0x000000001a000688       0x6c build/obj/src/digital.o
-                0x000000001a000688                AsignarEntradaDigital
- .text.CrearSalidaDigital
-                0x000000001a0006f4       0x58 build/obj/src/digital.o
-                0x000000001a0006f4                CrearSalidaDigital
- .text.CrearEntradaDigital
-                0x000000001a00074c       0x50 build/obj/src/digital.o
-                0x000000001a00074c                CrearEntradaDigital
- .text.main     0x000000001a00079c       0x48 build/obj/src/main.o
-                0x000000001a00079c                main
  .text.Chip_GPIO_SetValue
-                0x000000001a0007e4       0x28 build/obj/src/pantalla.o
+                0x000000001a000288       0x28 build/obj/src/bsp.o
  .text.Chip_GPIO_ClearValue
-                0x000000001a00080c       0x28 build/obj/src/pantalla.o
+                0x000000001a0002b0       0x28 build/obj/src/bsp.o
+ .text.InicializarDigitos
+                0x000000001a0002d8       0x94 build/obj/src/bsp.o
+ .text.InicializarSegmentos
+                0x000000001a00036c      0x11c build/obj/src/bsp.o
+ .text.InicializarZumbador
+                0x000000001a000488       0x24 build/obj/src/bsp.o
+ .text.InicializarTeclas
+                0x000000001a0004ac       0xa8 build/obj/src/bsp.o
+ .text.DisplayInit
+                0x000000001a000554       0x20 build/obj/src/bsp.o
  .text.ApagarPantalla
-                0x000000001a000834       0x20 build/obj/src/pantalla.o
-                0x000000001a000834                ApagarPantalla
+                0x000000001a000574       0x20 build/obj/src/bsp.o
  .text.EscribirNumero
-                0x000000001a000854       0x24 build/obj/src/pantalla.o
-                0x000000001a000854                EscribirNumero
+                0x000000001a000594       0x24 build/obj/src/bsp.o
  .text.SeleccionarDigito
-                0x000000001a000878       0x28 build/obj/src/pantalla.o
-                0x000000001a000878                SeleccionarDigito
- .text.CrearPantalla
-                0x000000001a0008a0       0x40 build/obj/src/pantalla.o
-                0x000000001a0008a0                CrearPantalla
- .text.EscribirPantallaBCD
-                0x000000001a0008e0       0x68 build/obj/src/pantalla.o
-                0x000000001a0008e0                EscribirPantallaBCD
- .text.RefrescarPantalla
-                0x000000001a000948       0x54 build/obj/src/pantalla.o
-                0x000000001a000948                RefrescarPantalla
- .text.initialise_monitor_handles
-                0x000000001a00099c        0xe build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
-                0x000000001a00099c                initialise_monitor_handles
- .text._fini    0x000000001a0009aa        0xe build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
-                0x000000001a0009aa                _fini
- .text._init    0x000000001a0009b8        0xe build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
-                0x000000001a0009b8                _init
- *fill*         0x000000001a0009c6        0x2 
- .text.Reset_Handler
-                0x000000001a0009c8       0xcc build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
-                0x000000001a0009c8                Reset_Handler
- .text.SCB_GetFPUType
-                0x000000001a000a94       0x2c build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .text.SystemInit
-                0x000000001a000ac0       0x38 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
-                0x000000001a000ac0                SystemInit
- .text.Chip_SCU_I2C0PinConfig
-                0x000000001a000af8       0x20 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a0005b8       0x28 build/obj/src/bsp.o
+ .text.BoardCreate
+                0x000000001a0005e0       0x24 build/obj/src/bsp.o
+                0x000000001a0005e0                BoardCreate
  .text.Chip_GPIO_SetPinState
-                0x000000001a000b18       0x38 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000604       0x38 build/obj/src/digital.o
  .text.Chip_GPIO_SetPinDIROutput
-                0x000000001a000b50       0x3e build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a00063c       0x3e build/obj/src/digital.o
  .text.Chip_GPIO_SetPinDIRInput
-                0x000000001a000b8e       0x40 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a00067a       0x40 build/obj/src/digital.o
+ .text.Chip_GPIO_SetPinDIR
+                0x000000001a0006ba       0x42 build/obj/src/digital.o
+ .text.AsignarSalidaDigital
+                0x000000001a0006fc       0x6c build/obj/src/digital.o
+                0x000000001a0006fc                AsignarSalidaDigital
+ .text.AsignarEntradaDigital
+                0x000000001a000768       0x6c build/obj/src/digital.o
+                0x000000001a000768                AsignarEntradaDigital
+ .text.CrearSalidaDigital
+                0x000000001a0007d4       0x58 build/obj/src/digital.o
+                0x000000001a0007d4                CrearSalidaDigital
+ .text.CrearEntradaDigital
+                0x000000001a00082c       0x50 build/obj/src/digital.o
+                0x000000001a00082c                CrearEntradaDigital
+ .text.main     0x000000001a00087c       0x48 build/obj/src/main.o
+                0x000000001a00087c                main
+ .text.CrearPantalla
+                0x000000001a0008c4       0x5c build/obj/src/pantalla.o
+                0x000000001a0008c4                CrearPantalla
+ .text.EscribirPantallaBCD
+                0x000000001a000920       0x68 build/obj/src/pantalla.o
+                0x000000001a000920                EscribirPantallaBCD
+ .text.RefrescarPantalla
+                0x000000001a000988       0x5a build/obj/src/pantalla.o
+                0x000000001a000988                RefrescarPantalla
+ .text.initialise_monitor_handles
+                0x000000001a0009e2        0xe build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+                0x000000001a0009e2                initialise_monitor_handles
+ .text._fini    0x000000001a0009f0        0xe build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+                0x000000001a0009f0                _fini
+ .text._init    0x000000001a0009fe        0xe build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+                0x000000001a0009fe                _init
+ .text.Reset_Handler
+                0x000000001a000a0c       0xcc build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+                0x000000001a000a0c                Reset_Handler
+ .text.SCB_GetFPUType
+                0x000000001a000ad8       0x2c build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .text.SystemInit
+                0x000000001a000b04       0x38 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+                0x000000001a000b04                SystemInit
+ .text.Chip_SCU_I2C0PinConfig
+                0x000000001a000b3c       0x20 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .text.Chip_GPIO_SetPinState
+                0x000000001a000b5c       0x38 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .text.Chip_GPIO_SetPinDIROutput
+                0x000000001a000b94       0x3e build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .text.Chip_GPIO_SetPinDIRInput
+                0x000000001a000bd2       0x40 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .text.Chip_SSP_Enable
-                0x000000001a000bce       0x20 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000c12       0x20 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .text.Chip_SSP_SetFormat
-                0x000000001a000bee       0x32 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000c32       0x32 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .text.Chip_SSP_Set_Mode
-                0x000000001a000c20       0x26 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000c64       0x26 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .text.Chip_UART_TXEnable
-                0x000000001a000c46       0x1a build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000c8a       0x1a build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .text.Chip_UART_ConfigData
-                0x000000001a000c60       0x1c build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000ca4       0x1c build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .text.Board_LED_Init
-                0x000000001a000c7c       0x54 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000cc0       0x54 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .text.Board_TEC_Init
-                0x000000001a000cd0       0x44 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
- .text.Board_GPIO_Init
                 0x000000001a000d14       0x44 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .text.Board_GPIO_Init
+                0x000000001a000d58       0x44 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .text.Board_I2C_Init
-                0x000000001a000d58       0x24 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000d9c       0x24 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .text.Board_SPI_Init
-                0x000000001a000d7c       0x38 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000dc0       0x38 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .text.Board_ADC_Init
-                0x000000001a000db4       0x38 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000df8       0x38 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .text.Board_Debug_Init
-                0x000000001a000dec       0x2c build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
-                0x000000001a000dec                Board_Debug_Init
+                0x000000001a000e30       0x2c build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000e30                Board_Debug_Init
  .text.Board_Init
-                0x000000001a000e18       0x30 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
-                0x000000001a000e18                Board_Init
+                0x000000001a000e5c       0x30 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a000e5c                Board_Init
  .text.Chip_SCU_PinMuxSet
-                0x000000001a000e48       0x34 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+                0x000000001a000e8c       0x34 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
  .text.Chip_SCU_SetPinMuxing
-                0x000000001a000e7c       0x4c build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+                0x000000001a000ec0       0x4c build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
  .text.Chip_CREG_SetFlashAcceleration
-                0x000000001a000ec8       0x54 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+                0x000000001a000f0c       0x54 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
  .text.Board_SetupMuxing
-                0x000000001a000f1c       0x14 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
-                0x000000001a000f1c                Board_SetupMuxing
+                0x000000001a000f60       0x14 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+                0x000000001a000f60                Board_SetupMuxing
  .text.Board_SetupClocking
-                0x000000001a000f30       0x74 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
-                0x000000001a000f30                Board_SetupClocking
+                0x000000001a000f74       0x74 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+                0x000000001a000f74                Board_SetupClocking
  .text.Board_SystemInit
-                0x000000001a000fa4       0x14 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
-                0x000000001a000fa4                Board_SystemInit
+                0x000000001a000fe8       0x14 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+                0x000000001a000fe8                Board_SystemInit
  .text.getFullConvClk
-                0x000000001a000fb8       0x10 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+                0x000000001a000ffc       0x10 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
  .text.Chip_ADC_GetClockIndex
-                0x000000001a000fc8       0x2c build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+                0x000000001a00100c       0x2c build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
  .text.getClkDiv
-                0x000000001a000ff4       0x66 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
- *fill*         0x000000001a00105a        0x2 
+                0x000000001a001038       0x66 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+ *fill*         0x000000001a00109e        0x2 
  .text.Chip_ADC_Init
-                0x000000001a00105c       0x88 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
-                0x000000001a00105c                Chip_ADC_Init
+                0x000000001a0010a0       0x88 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+                0x000000001a0010a0                Chip_ADC_Init
  .text.Chip_ADC_SetSampleRate
-                0x000000001a0010e4       0x64 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
-                0x000000001a0010e4                Chip_ADC_SetSampleRate
+                0x000000001a001128       0x64 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+                0x000000001a001128                Chip_ADC_SetSampleRate
  .text.Chip_ADC_SetResolution
-                0x000000001a001148       0x2a build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
-                0x000000001a001148                Chip_ADC_SetResolution
- *fill*         0x000000001a001172        0x2 
+                0x000000001a00118c       0x2a build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+                0x000000001a00118c                Chip_ADC_SetResolution
+ *fill*         0x000000001a0011b6        0x2 
  .text.SystemCoreClockUpdate
-                0x000000001a001174       0x18 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
-                0x000000001a001174                SystemCoreClockUpdate
- .text.ABS      0x000000001a00118c       0x22 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
- *fill*         0x000000001a0011ae        0x2 
+                0x000000001a0011b8       0x18 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
+                0x000000001a0011b8                SystemCoreClockUpdate
+ .text.ABS      0x000000001a0011d0       0x22 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+ *fill*         0x000000001a0011f2        0x2 
  .text.pll_calc_divs
-                0x000000001a0011b0      0x124 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a0011f4      0x124 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
  .text.pll_get_frac
-                0x000000001a0012d4      0x180 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a001318      0x180 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
  .text.Chip_Clock_GetDivRate
-                0x000000001a001454       0x40 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a001498       0x40 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
  .text.Chip_Clock_FindBaseClock
-                0x000000001a001494       0x90 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a0014d8       0x90 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
  .text.Chip_Clock_EnableCrystal
-                0x000000001a001524       0x70 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a001524                Chip_Clock_EnableCrystal
+                0x000000001a001568       0x70 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a001568                Chip_Clock_EnableCrystal
  .text.Chip_Clock_CalcMainPLLValue
-                0x000000001a001594       0xd8 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a001594                Chip_Clock_CalcMainPLLValue
+                0x000000001a0015d8       0xd8 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a0015d8                Chip_Clock_CalcMainPLLValue
  .text.Chip_Clock_GetMainPLLHz
-                0x000000001a00166c       0xbc build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a00166c                Chip_Clock_GetMainPLLHz
+                0x000000001a0016b0       0xbc build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a0016b0                Chip_Clock_GetMainPLLHz
  .text.Chip_Clock_GetDividerSource
-                0x000000001a001728       0x40 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a001728                Chip_Clock_GetDividerSource
+                0x000000001a00176c       0x40 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a00176c                Chip_Clock_GetDividerSource
  .text.Chip_Clock_GetDividerDivisor
-                0x000000001a001768       0x38 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a001768                Chip_Clock_GetDividerDivisor
+                0x000000001a0017ac       0x38 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a0017ac                Chip_Clock_GetDividerDivisor
  .text.Chip_Clock_GetClockInputHz
-                0x000000001a0017a0      0x140 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a0017a0                Chip_Clock_GetClockInputHz
+                0x000000001a0017e4      0x140 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a0017e4                Chip_Clock_GetClockInputHz
  .text.Chip_Clock_GetBaseClocktHz
-                0x000000001a0018e0       0x24 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a0018e0                Chip_Clock_GetBaseClocktHz
+                0x000000001a001924       0x24 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a001924                Chip_Clock_GetBaseClocktHz
  .text.Chip_Clock_SetBaseClock
-                0x000000001a001904       0x9c build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a001904                Chip_Clock_SetBaseClock
+                0x000000001a001948       0x9c build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a001948                Chip_Clock_SetBaseClock
  .text.Chip_Clock_GetBaseClock
-                0x000000001a0019a0       0x4c build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a0019a0                Chip_Clock_GetBaseClock
+                0x000000001a0019e4       0x4c build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a0019e4                Chip_Clock_GetBaseClock
  .text.Chip_Clock_EnableOpts
-                0x000000001a0019ec       0x7c build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a0019ec                Chip_Clock_EnableOpts
+                0x000000001a001a30       0x7c build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a001a30                Chip_Clock_EnableOpts
  .text.Chip_Clock_Enable
-                0x000000001a001a68       0x60 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a001a68                Chip_Clock_Enable
+                0x000000001a001aac       0x60 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a001aac                Chip_Clock_Enable
  .text.Chip_Clock_GetRate
-                0x000000001a001ac8       0x88 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
-                0x000000001a001ac8                Chip_Clock_GetRate
+                0x000000001a001b0c       0x88 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x000000001a001b0c                Chip_Clock_GetRate
  .text.Chip_GPIO_Init
-                0x000000001a001b50       0x14 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
-                0x000000001a001b50                Chip_GPIO_Init
+                0x000000001a001b94       0x14 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
+                0x000000001a001b94                Chip_GPIO_Init
  .text.enableClk
-                0x000000001a001b64       0x30 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+                0x000000001a001ba8       0x30 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
  .text.getClkRate
-                0x000000001a001b94       0x30 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+                0x000000001a001bd8       0x30 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
  .text.Chip_I2C_EventHandler
-                0x000000001a001bc4       0x4c build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
-                0x000000001a001bc4                Chip_I2C_EventHandler
+                0x000000001a001c08       0x4c build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+                0x000000001a001c08                Chip_I2C_EventHandler
  .text.Chip_I2C_Init
-                0x000000001a001c10       0x34 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
-                0x000000001a001c10                Chip_I2C_Init
+                0x000000001a001c54       0x34 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+                0x000000001a001c54                Chip_I2C_Init
  .text.Chip_I2C_SetClockRate
-                0x000000001a001c44       0x68 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
-                0x000000001a001c44                Chip_I2C_SetClockRate
+                0x000000001a001c88       0x68 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+                0x000000001a001c88                Chip_I2C_SetClockRate
  .text.Chip_SSP_SetFormat
-                0x000000001a001cac       0x32 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+                0x000000001a001cf0       0x32 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
  .text.Chip_SSP_Set_Mode
-                0x000000001a001cde       0x26 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+                0x000000001a001d22       0x26 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
  .text.Chip_SSP_GetClockIndex
-                0x000000001a001d04       0x2c build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+                0x000000001a001d48       0x2c build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
  .text.Chip_SSP_GetPeriphClockIndex
-                0x000000001a001d30       0x30 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+                0x000000001a001d74       0x30 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
  .text.Chip_SSP_SetClockRate
-                0x000000001a001d60       0x36 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
-                0x000000001a001d60                Chip_SSP_SetClockRate
+                0x000000001a001da4       0x36 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+                0x000000001a001da4                Chip_SSP_SetClockRate
  .text.Chip_SSP_SetBitRate
-                0x000000001a001d96       0x74 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
-                0x000000001a001d96                Chip_SSP_SetBitRate
- *fill*         0x000000001a001e0a        0x2 
+                0x000000001a001dda       0x74 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+                0x000000001a001dda                Chip_SSP_SetBitRate
+ *fill*         0x000000001a001e4e        0x2 
  .text.Chip_SSP_Init
-                0x000000001a001e0c       0x4c build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
-                0x000000001a001e0c                Chip_SSP_Init
+                0x000000001a001e50       0x4c build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+                0x000000001a001e50                Chip_SSP_Init
  .text.Chip_Clock_DisableMainPLL
-                0x000000001a001e58       0x20 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+                0x000000001a001e9c       0x20 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
  .text.Chip_Clock_SetupMainPLL
-                0x000000001a001e78       0x48 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+                0x000000001a001ebc       0x48 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
  .text.Chip_Clock_MainPLLLocked
-                0x000000001a001ec0       0x24 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+                0x000000001a001f04       0x24 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
  .text.Chip_SetupCoreClock
-                0x000000001a001ee4      0x148 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
-                0x000000001a001ee4                Chip_SetupCoreClock
+                0x000000001a001f28      0x148 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+                0x000000001a001f28                Chip_SetupCoreClock
  .text.Chip_UART_TXDisable
-                0x000000001a00202c       0x1a build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+                0x000000001a002070       0x1a build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
  .text.Chip_UART_SetupFIFOS
-                0x000000001a002046       0x1c build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+                0x000000001a00208a       0x1c build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
  .text.Chip_UART_ConfigData
-                0x000000001a002062       0x1c build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+                0x000000001a0020a6       0x1c build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
  .text.Chip_UART_EnableDivisorAccess
-                0x000000001a00207e       0x20 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+                0x000000001a0020c2       0x20 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
  .text.Chip_UART_DisableDivisorAccess
-                0x000000001a00209e       0x20 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+                0x000000001a0020e2       0x20 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
  .text.Chip_UART_SetDivisorLatches
-                0x000000001a0020be       0x28 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
- *fill*         0x000000001a0020e6        0x2 
+                0x000000001a002102       0x28 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+ *fill*         0x000000001a00212a        0x2 
  .text.Chip_UART_GetIndex
-                0x000000001a0020e8       0x6c build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+                0x000000001a00212c       0x6c build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
  .text.Chip_UART_Init
-                0x000000001a002154       0x88 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
-                0x000000001a002154                Chip_UART_Init
+                0x000000001a002198       0x88 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+                0x000000001a002198                Chip_UART_Init
  .text.Chip_UART_SetBaudFDR
-                0x000000001a0021dc      0x180 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
-                0x000000001a0021dc                Chip_UART_SetBaudFDR
- .text          0x000000001a00235c       0x30 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_aeabi_uldivmod.o)
-                0x000000001a00235c                __aeabi_uldivmod
- .text          0x000000001a00238c      0x2d0 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_udivmoddi4.o)
-                0x000000001a00238c                __udivmoddi4
- .text          0x000000001a00265c        0x4 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_dvmd_tls.o)
-                0x000000001a00265c                __aeabi_ldiv0
-                0x000000001a00265c                __aeabi_idiv0
+                0x000000001a002220      0x180 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+                0x000000001a002220                Chip_UART_SetBaudFDR
+ .text          0x000000001a0023a0       0x30 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_aeabi_uldivmod.o)
+                0x000000001a0023a0                __aeabi_uldivmod
+ .text          0x000000001a0023d0      0x2d0 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_udivmoddi4.o)
+                0x000000001a0023d0                __udivmoddi4
+ .text          0x000000001a0026a0        0x4 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_dvmd_tls.o)
+                0x000000001a0026a0                __aeabi_ldiv0
+                0x000000001a0026a0                __aeabi_idiv0
  .text.__libc_init_array
-                0x000000001a002660       0x48 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/softfp/libc_nano.a(lib_a-init.o)
-                0x000000001a002660                __libc_init_array
- .text.memset   0x000000001a0026a8       0x10 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/softfp/libc_nano.a(lib_a-memset.o)
-                0x000000001a0026a8                memset
+                0x000000001a0026a4       0x48 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/softfp/libc_nano.a(lib_a-init.o)
+                0x000000001a0026a4                __libc_init_array
+ .text.memset   0x000000001a0026ec       0x10 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/softfp/libc_nano.a(lib_a-memset.o)
+                0x000000001a0026ec                memset
  *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.display_driver.0
+                0x000000001a0026fc        0xc build/obj/src/bsp.o
  .rodata.DIBUJAR
-                0x000000001a0026b8        0xa build/obj/src/pantalla.o
- *fill*         0x000000001a0026c2        0x2 
+                0x000000001a002708        0xa build/obj/src/pantalla.o
+ *fill*         0x000000001a002712        0x2 
  .rodata.ExtRateIn
-                0x000000001a0026c4        0x4 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
-                0x000000001a0026c4                ExtRateIn
+                0x000000001a002714        0x4 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a002714                ExtRateIn
  .rodata.OscRateIn
-                0x000000001a0026c8        0x4 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
-                0x000000001a0026c8                OscRateIn
+                0x000000001a002718        0x4 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a002718                OscRateIn
  .rodata.GpioLeds
-                0x000000001a0026cc        0xc build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a00271c        0xc build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .rodata.GpioButtons
-                0x000000001a0026d8        0x8 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x000000001a002728        0x8 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .rodata.GpioPorts
-                0x000000001a0026e0       0x12 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
- *fill*         0x000000001a0026f2        0x2 
+                0x000000001a002730       0x12 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ *fill*         0x000000001a002742        0x2 
  .rodata.InitClkStates
-                0x000000001a0026f4        0x4 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+                0x000000001a002744        0x4 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
  .rodata.pinmuxing
-                0x000000001a0026f8       0x74 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+                0x000000001a002748       0x74 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
  .rodata.periph_to_base
-                0x000000001a00276c       0x6c build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
- .rodata        0x000000001a0027d8        0x6 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
- *fill*         0x000000001a0027de        0x2 
+                0x000000001a0027bc       0x6c build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+ .rodata        0x000000001a002828        0x6 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+ *fill*         0x000000001a00282e        0x2 
  .rodata.InitClkStates
-                0x000000001a0027e0       0x48 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+                0x000000001a002830       0x48 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
  .rodata.UART_PClock
-                0x000000001a002828        0x8 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+                0x000000001a002878        0x8 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
  .rodata.UART_BClock
-                0x000000001a002830        0x8 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
-                0x000000001a002838                . = ALIGN (0x4)
+                0x000000001a002880        0x8 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+                0x000000001a002888                . = ALIGN (0x4)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x000000001a002838                __exidx_start = .
+                0x000000001a002888                __exidx_start = .
 
-.ARM.exidx      0x000000001a002838        0x8
+.ARM.exidx      0x000000001a002888        0x8
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
- .ARM.exidx     0x000000001a002838        0x8 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_udivmoddi4.o)
-                0x000000001a002840                __exidx_end = .
-                0x000000001a002840                _etext = .
+ .ARM.exidx     0x000000001a002888        0x8 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_udivmoddi4.o)
+                0x000000001a002890                __exidx_end = .
+                0x000000001a002890                _etext = .
 
-.rel.dyn        0x000000001a002840        0x0
- .rel.iplt      0x000000001a002840        0x0 build/obj/src/bsp.o
+.rel.dyn        0x000000001a002890        0x0
+ .rel.iplt      0x000000001a002890        0x0 build/obj/src/bsp.o
 
-.data_RAM2      0x0000000010080000        0x0 load address 0x000000001a002840
+.data_RAM2      0x0000000010080000        0x0 load address 0x000000001a002890
  FILL mask 0xff
  *(.ramfunc.$RAM2)
  *(.ramfunc.$RamLoc40)
@@ -2607,7 +2603,7 @@ END GROUP
  *(.data.$RamLoc40*)
                 0x0000000010080000                . = ALIGN (0x4)
 
-.data_RAM3      0x0000000020000000        0x0 load address 0x000000001a002840
+.data_RAM3      0x0000000020000000        0x0 load address 0x000000001a002890
  FILL mask 0xff
  *(.ramfunc.$RAM3)
  *(.ramfunc.$RamAHB32)
@@ -2615,7 +2611,7 @@ END GROUP
  *(.data.$RamAHB32*)
                 0x0000000020000000                . = ALIGN (0x4)
 
-.data_RAM4      0x0000000020008000        0x0 load address 0x000000001a002840
+.data_RAM4      0x0000000020008000        0x0 load address 0x000000001a002890
  FILL mask 0xff
  *(.ramfunc.$RAM4)
  *(.ramfunc.$RamAHB16)
@@ -2623,7 +2619,7 @@ END GROUP
  *(.data.$RamAHB16*)
                 0x0000000020008000                . = ALIGN (0x4)
 
-.data_RAM5      0x000000002000c000        0x0 load address 0x000000001a002840
+.data_RAM5      0x000000002000c000        0x0 load address 0x000000001a002890
  FILL mask 0xff
  *(.ramfunc.$RAM5)
  *(.ramfunc.$RamAHB_ETB16)
@@ -2637,7 +2633,7 @@ END GROUP
                 0x0000000010000000                . = ALIGN (0x4)
                 0x0000000010000000                _end_uninit_RESERVED = .
 
-.data           0x0000000010000000       0x38 load address 0x000000001a002840
+.data           0x0000000010000000       0x38 load address 0x000000001a002890
  FILL mask 0xff
                 0x0000000010000000                _data = .
  *(vtable)
@@ -2647,7 +2643,7 @@ END GROUP
                 0x0000000010000038                . = ALIGN (0x4)
                 0x0000000010000038                _edata = .
 
-.igot.plt       0x0000000010000038        0x0 load address 0x000000001a002878
+.igot.plt       0x0000000010000038        0x0 load address 0x000000001a0028c8
  .igot.plt      0x0000000010000038        0x0 build/obj/src/bsp.o
 
 .bss_RAM2       0x0000000010080000        0x0
@@ -2670,26 +2666,25 @@ END GROUP
  *(.bss.$RamAHB_ETB16*)
                 0x000000002000c000                . = ALIGN (0x4)
 
-.bss            0x0000000010000038       0x60
+.bss            0x0000000010000038       0x70
                 0x0000000010000038                _bss = .
  *(.bss*)
- .bss.board     0x0000000010000038       0x1c build/obj/src/bsp.o
+ .bss.board     0x0000000010000038       0x20 build/obj/src/bsp.o
  .bss.instances
-                0x0000000010000054        0xc build/obj/src/digital.o
+                0x0000000010000058        0xc build/obj/src/digital.o
  .bss.instancesi
-                0x0000000010000060       0x1e build/obj/src/digital.o
- *fill*         0x000000001000007e        0x2 
+                0x0000000010000064       0x1e build/obj/src/digital.o
+ *fill*         0x0000000010000082        0x2 
  .bss.instances
-                0x0000000010000080        0xa build/obj/src/pantalla.o
- *fill*         0x000000001000008a        0x2 
+                0x0000000010000084       0x18 build/obj/src/pantalla.o
  .bss.SystemCoreClock
-                0x000000001000008c        0x4 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
-                0x000000001000008c                SystemCoreClock
+                0x000000001000009c        0x4 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
+                0x000000001000009c                SystemCoreClock
  .bss.audio_usb_pll_freq
-                0x0000000010000090        0x8 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x00000000100000a0        0x8 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
  *(COMMON)
-                0x0000000010000098                . = ALIGN (0x4)
-                0x0000000010000098                _ebss = .
+                0x00000000100000a8                . = ALIGN (0x4)
+                0x00000000100000a8                _ebss = .
                 [!provide]                        PROVIDE (end = .)
 
 .noinit_RAM2    0x0000000010080000        0x0
@@ -2712,264 +2707,264 @@ END GROUP
  *(.noinit.$RamAHB_ETB16*)
                 0x000000002000c000                . = ALIGN (0x4)
 
-.noinit         0x0000000010000098        0x0
-                0x0000000010000098                _noinit = .
+.noinit         0x00000000100000a8        0x0
+                0x00000000100000a8                _noinit = .
  *(.noinit*)
-                0x0000000010000098                . = ALIGN (0x4)
-                0x0000000010000098                _end_noinit = .
+                0x00000000100000a8                . = ALIGN (0x4)
+                0x00000000100000a8                _end_noinit = .
                 [!provide]                        PROVIDE (_pvHeapStart = .)
                 0x0000000010008000                PROVIDE (_vStackTop = (__top_RamLoc32 - 0x0))
-                0xffffffff53ff7042                PROVIDE (__valid_user_code_checksum = (0x0 - ((((((_vStackTop + (Reset_Handler + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0xffffffff53ff6ffe                PROVIDE (__valid_user_code_checksum = (0x0 - ((((((_vStackTop + (Reset_Handler + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
 OUTPUT(build/bin/TP4.elf elf32-littlearm)
 LOAD linker stubs
 
-.debug_info     0x0000000000000000     0xab54
- .debug_info    0x0000000000000000      0xa69 build/obj/src/bsp.o
- .debug_info    0x0000000000000a69      0xb8d build/obj/src/digital.o
- .debug_info    0x00000000000015f6      0x1ba build/obj/src/main.o
- .debug_info    0x00000000000017b0      0x8a2 build/obj/src/pantalla.o
- .debug_info    0x0000000000002052      0x2b5 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
- .debug_info    0x0000000000002307      0x33e build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_info    0x0000000000002645     0x14c8 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
- .debug_info    0x0000000000003b0d      0xbce build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
- .debug_info    0x00000000000046db      0x9c1 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
- .debug_info    0x000000000000509c      0xa65 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
- .debug_info    0x0000000000005b01     0x1678 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
- .debug_info    0x0000000000007179      0x1e1 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
- .debug_info    0x000000000000735a     0x10f4 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
- .debug_info    0x000000000000844e      0xc7d build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
- .debug_info    0x00000000000090cb      0x921 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
- .debug_info    0x00000000000099ec     0x1168 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+.debug_info     0x0000000000000000     0xa708
+ .debug_info    0x0000000000000000      0xc1a build/obj/src/bsp.o
+ .debug_info    0x0000000000000c1a      0xb8d build/obj/src/digital.o
+ .debug_info    0x00000000000017a7      0x1c6 build/obj/src/main.o
+ .debug_info    0x000000000000196d      0x299 build/obj/src/pantalla.o
+ .debug_info    0x0000000000001c06      0x2b5 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+ .debug_info    0x0000000000001ebb      0x33e build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_info    0x00000000000021f9     0x14c8 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .debug_info    0x00000000000036c1      0xbce build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+ .debug_info    0x000000000000428f      0x9c1 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+ .debug_info    0x0000000000004c50      0xa65 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
+ .debug_info    0x00000000000056b5     0x1678 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+ .debug_info    0x0000000000006d2d      0x1e1 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
+ .debug_info    0x0000000000006f0e     0x10f4 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+ .debug_info    0x0000000000008002      0xc7d build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+ .debug_info    0x0000000000008c7f      0x921 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+ .debug_info    0x00000000000095a0     0x1168 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
 
-.debug_abbrev   0x0000000000000000     0x1e90
- .debug_abbrev  0x0000000000000000      0x1c1 build/obj/src/bsp.o
- .debug_abbrev  0x00000000000001c1      0x234 build/obj/src/digital.o
- .debug_abbrev  0x00000000000003f5       0xbf build/obj/src/main.o
- .debug_abbrev  0x00000000000004b4      0x1c1 build/obj/src/pantalla.o
- .debug_abbrev  0x0000000000000675       0xfd build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
- .debug_abbrev  0x0000000000000772       0xfd build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_abbrev  0x000000000000086f      0x394 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
- .debug_abbrev  0x0000000000000c03      0x1d0 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
- .debug_abbrev  0x0000000000000dd3      0x1d2 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
- .debug_abbrev  0x0000000000000fa5      0x173 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
- .debug_abbrev  0x0000000000001118      0x2fc build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
- .debug_abbrev  0x0000000000001414       0xe7 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
- .debug_abbrev  0x00000000000014fb      0x298 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
- .debug_abbrev  0x0000000000001793      0x262 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
- .debug_abbrev  0x00000000000019f5      0x196 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
- .debug_abbrev  0x0000000000001b8b      0x305 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+.debug_abbrev   0x0000000000000000     0x1e07
+ .debug_abbrev  0x0000000000000000      0x201 build/obj/src/bsp.o
+ .debug_abbrev  0x0000000000000201      0x234 build/obj/src/digital.o
+ .debug_abbrev  0x0000000000000435       0xbf build/obj/src/main.o
+ .debug_abbrev  0x00000000000004f4       0xf8 build/obj/src/pantalla.o
+ .debug_abbrev  0x00000000000005ec       0xfd build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+ .debug_abbrev  0x00000000000006e9       0xfd build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_abbrev  0x00000000000007e6      0x394 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .debug_abbrev  0x0000000000000b7a      0x1d0 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+ .debug_abbrev  0x0000000000000d4a      0x1d2 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+ .debug_abbrev  0x0000000000000f1c      0x173 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
+ .debug_abbrev  0x000000000000108f      0x2fc build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+ .debug_abbrev  0x000000000000138b       0xe7 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
+ .debug_abbrev  0x0000000000001472      0x298 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+ .debug_abbrev  0x000000000000170a      0x262 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+ .debug_abbrev  0x000000000000196c      0x196 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+ .debug_abbrev  0x0000000000001b02      0x305 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
 
-.debug_aranges  0x0000000000000000      0x950
+.debug_aranges  0x0000000000000000      0x958
  .debug_aranges
-                0x0000000000000000       0x68 build/obj/src/bsp.o
+                0x0000000000000000       0x98 build/obj/src/bsp.o
  .debug_aranges
-                0x0000000000000068       0xa0 build/obj/src/digital.o
+                0x0000000000000098       0xa0 build/obj/src/digital.o
  .debug_aranges
-                0x0000000000000108       0x20 build/obj/src/main.o
+                0x0000000000000138       0x20 build/obj/src/main.o
  .debug_aranges
-                0x0000000000000128       0x58 build/obj/src/pantalla.o
+                0x0000000000000158       0x30 build/obj/src/pantalla.o
  .debug_aranges
-                0x0000000000000180       0x90 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+                0x0000000000000188       0x90 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
  .debug_aranges
-                0x0000000000000210       0x28 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+                0x0000000000000218       0x28 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
  .debug_aranges
-                0x0000000000000238      0x130 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+                0x0000000000000240      0x130 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
  .debug_aranges
-                0x0000000000000368       0x48 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+                0x0000000000000370       0x48 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
  .debug_aranges
-                0x00000000000003b0       0x98 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+                0x00000000000003b8       0x98 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
  .debug_aranges
-                0x0000000000000448       0x40 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
+                0x0000000000000450       0x40 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
  .debug_aranges
-                0x0000000000000488      0x138 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+                0x0000000000000490      0x138 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
  .debug_aranges
-                0x00000000000005c0       0x28 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
+                0x00000000000005c8       0x28 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
  .debug_aranges
-                0x00000000000005e8      0x118 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+                0x00000000000005f0      0x118 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
  .debug_aranges
-                0x0000000000000700       0xe8 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+                0x0000000000000708       0xe8 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
  .debug_aranges
-                0x00000000000007e8       0x50 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+                0x00000000000007f0       0x50 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
  .debug_aranges
-                0x0000000000000838      0x118 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+                0x0000000000000840      0x118 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
 
-.debug_ranges   0x0000000000000000      0x898
- .debug_ranges  0x0000000000000000       0x58 build/obj/src/bsp.o
- .debug_ranges  0x0000000000000058       0x90 build/obj/src/digital.o
- .debug_ranges  0x00000000000000e8       0x10 build/obj/src/main.o
- .debug_ranges  0x00000000000000f8       0x60 build/obj/src/pantalla.o
- .debug_ranges  0x0000000000000158       0x80 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
- .debug_ranges  0x00000000000001d8       0x18 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_ranges  0x00000000000001f0      0x120 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
- .debug_ranges  0x0000000000000310       0x38 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
- .debug_ranges  0x0000000000000348       0x88 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
- .debug_ranges  0x00000000000003d0       0x30 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
- .debug_ranges  0x0000000000000400      0x140 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
- .debug_ranges  0x0000000000000540       0x18 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
- .debug_ranges  0x0000000000000558      0x108 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
- .debug_ranges  0x0000000000000660       0xd8 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
- .debug_ranges  0x0000000000000738       0x40 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
- .debug_ranges  0x0000000000000778      0x120 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+.debug_ranges   0x0000000000000000      0x8a0
+ .debug_ranges  0x0000000000000000       0x88 build/obj/src/bsp.o
+ .debug_ranges  0x0000000000000088       0x90 build/obj/src/digital.o
+ .debug_ranges  0x0000000000000118       0x10 build/obj/src/main.o
+ .debug_ranges  0x0000000000000128       0x38 build/obj/src/pantalla.o
+ .debug_ranges  0x0000000000000160       0x80 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+ .debug_ranges  0x00000000000001e0       0x18 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_ranges  0x00000000000001f8      0x120 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .debug_ranges  0x0000000000000318       0x38 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+ .debug_ranges  0x0000000000000350       0x88 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+ .debug_ranges  0x00000000000003d8       0x30 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
+ .debug_ranges  0x0000000000000408      0x140 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+ .debug_ranges  0x0000000000000548       0x18 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
+ .debug_ranges  0x0000000000000560      0x108 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+ .debug_ranges  0x0000000000000668       0xd8 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+ .debug_ranges  0x0000000000000740       0x40 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+ .debug_ranges  0x0000000000000780      0x120 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
 
-.debug_macro    0x0000000000000000     0x90a1
- .debug_macro   0x0000000000000000      0x32c build/obj/src/bsp.o
- .debug_macro   0x000000000000032c      0xa96 build/obj/src/bsp.o
- .debug_macro   0x0000000000000dc2       0x22 build/obj/src/bsp.o
- .debug_macro   0x0000000000000de4       0x8e build/obj/src/bsp.o
- .debug_macro   0x0000000000000e72       0x51 build/obj/src/bsp.o
- .debug_macro   0x0000000000000ec3      0x103 build/obj/src/bsp.o
- .debug_macro   0x0000000000000fc6       0x6a build/obj/src/bsp.o
- .debug_macro   0x0000000000001030      0x1df build/obj/src/bsp.o
- .debug_macro   0x000000000000120f       0x22 build/obj/src/bsp.o
- .debug_macro   0x0000000000001231       0x10 build/obj/src/bsp.o
- .debug_macro   0x0000000000001241       0x79 build/obj/src/bsp.o
- .debug_macro   0x00000000000012ba       0x22 build/obj/src/bsp.o
- .debug_macro   0x00000000000012dc       0x1c build/obj/src/bsp.o
- .debug_macro   0x00000000000012f8       0x22 build/obj/src/bsp.o
- .debug_macro   0x000000000000131a       0xd9 build/obj/src/bsp.o
- .debug_macro   0x00000000000013f3     0x102d build/obj/src/bsp.o
- .debug_macro   0x0000000000002420      0x11f build/obj/src/bsp.o
- .debug_macro   0x000000000000253f      0x2c3 build/obj/src/bsp.o
- .debug_macro   0x0000000000002802      0x112 build/obj/src/bsp.o
- .debug_macro   0x0000000000002914       0x11 build/obj/src/bsp.o
- .debug_macro   0x0000000000002925       0x2a build/obj/src/bsp.o
- .debug_macro   0x000000000000294f       0x16 build/obj/src/bsp.o
- .debug_macro   0x0000000000002965      0x2e6 build/obj/src/bsp.o
- .debug_macro   0x0000000000002c4b       0x82 build/obj/src/bsp.o
- .debug_macro   0x0000000000002ccd      0x13d build/obj/src/bsp.o
- .debug_macro   0x0000000000002e0a      0x198 build/obj/src/bsp.o
- .debug_macro   0x0000000000002fa2       0x34 build/obj/src/bsp.o
- .debug_macro   0x0000000000002fd6       0x58 build/obj/src/bsp.o
- .debug_macro   0x000000000000302e      0x236 build/obj/src/bsp.o
- .debug_macro   0x0000000000003264      0x572 build/obj/src/bsp.o
- .debug_macro   0x00000000000037d6       0x16 build/obj/src/bsp.o
- .debug_macro   0x00000000000037ec      0x18a build/obj/src/bsp.o
- .debug_macro   0x0000000000003976       0x88 build/obj/src/bsp.o
- .debug_macro   0x00000000000039fe      0x1b9 build/obj/src/bsp.o
- .debug_macro   0x0000000000003bb7      0x1da build/obj/src/bsp.o
- .debug_macro   0x0000000000003d91       0x40 build/obj/src/bsp.o
- .debug_macro   0x0000000000003dd1       0x1c build/obj/src/bsp.o
- .debug_macro   0x0000000000003ded       0x2e build/obj/src/bsp.o
- .debug_macro   0x0000000000003e1b       0x2e build/obj/src/bsp.o
- .debug_macro   0x0000000000003e49       0x22 build/obj/src/bsp.o
- .debug_macro   0x0000000000003e6b      0x201 build/obj/src/bsp.o
- .debug_macro   0x000000000000406c       0xe0 build/obj/src/bsp.o
- .debug_macro   0x000000000000414c      0x34c build/obj/src/bsp.o
- .debug_macro   0x0000000000004498       0xdc build/obj/src/bsp.o
- .debug_macro   0x0000000000004574       0xc4 build/obj/src/bsp.o
- .debug_macro   0x0000000000004638       0x8f build/obj/src/bsp.o
- .debug_macro   0x00000000000046c7       0x94 build/obj/src/bsp.o
- .debug_macro   0x000000000000475b       0xb8 build/obj/src/bsp.o
- .debug_macro   0x0000000000004813       0x4c build/obj/src/bsp.o
- .debug_macro   0x000000000000485f       0x16 build/obj/src/bsp.o
- .debug_macro   0x0000000000004875      0x328 build/obj/src/bsp.o
- .debug_macro   0x0000000000004b9d       0x3a build/obj/src/bsp.o
- .debug_macro   0x0000000000004bd7       0xd0 build/obj/src/bsp.o
- .debug_macro   0x0000000000004ca7       0x18 build/obj/src/bsp.o
- .debug_macro   0x0000000000004cbf       0x22 build/obj/src/bsp.o
- .debug_macro   0x0000000000004ce1       0x40 build/obj/src/bsp.o
- .debug_macro   0x0000000000004d21      0x2bc build/obj/src/bsp.o
- .debug_macro   0x0000000000004fdd      0x325 build/obj/src/digital.o
- .debug_macro   0x0000000000005302       0x89 build/obj/src/main.o
- .debug_macro   0x000000000000538b       0x3a build/obj/src/main.o
- .debug_macro   0x00000000000053c5      0x3f8 build/obj/src/pantalla.o
- .debug_macro   0x00000000000057bd       0x34 build/obj/src/pantalla.o
- .debug_macro   0x00000000000057f1       0x73 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005864      0x2b6 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005b1a       0x64 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005b7e       0x1e build/obj/src/pantalla.o
- .debug_macro   0x0000000000005b9c       0x35 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005bd1       0x34 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005c05      0x174 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005d79       0x16 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005d8f       0x43 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005dd2       0x34 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005e06       0x10 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005e16       0x58 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005e6e      0x182 build/obj/src/pantalla.o
- .debug_macro   0x0000000000005ff0      0x341 build/obj/src/pantalla.o
- .debug_macro   0x0000000000006331       0x10 build/obj/src/pantalla.o
- .debug_macro   0x0000000000006341       0x35 build/obj/src/pantalla.o
- .debug_macro   0x0000000000006376       0x1d build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
- .debug_macro   0x0000000000006393      0x48c build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x000000000000681f       0x16 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006835       0x97 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x00000000000068cc       0xfd build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x00000000000069c9       0x10 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x00000000000069d9       0x10 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x00000000000069e9       0x1c build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006a05       0x52 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006a57       0x22 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006a79       0x10 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006a89       0x52 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006adb       0xd5 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006bb0       0x1c build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006bcc       0x3d build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006c09       0x16 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006c1f      0x16f build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006d8e       0x20 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006dae      0x109 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_macro   0x0000000000006eb7      0x49e build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
- .debug_macro   0x0000000000007355      0x48c build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
- .debug_macro   0x00000000000077e1      0x315 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
- .debug_macro   0x0000000000007af6      0x315 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
- .debug_macro   0x0000000000007e0b      0x31b build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
- .debug_macro   0x0000000000008126      0x315 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
- .debug_macro   0x000000000000843b      0x327 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
- .debug_macro   0x0000000000008762      0x315 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
- .debug_macro   0x0000000000008a77      0x315 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
- .debug_macro   0x0000000000008d8c      0x315 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+.debug_macro    0x0000000000000000     0x909f
+ .debug_macro   0x0000000000000000      0x335 build/obj/src/bsp.o
+ .debug_macro   0x0000000000000335      0xa96 build/obj/src/bsp.o
+ .debug_macro   0x0000000000000dcb       0x22 build/obj/src/bsp.o
+ .debug_macro   0x0000000000000ded       0x8e build/obj/src/bsp.o
+ .debug_macro   0x0000000000000e7b       0x51 build/obj/src/bsp.o
+ .debug_macro   0x0000000000000ecc      0x103 build/obj/src/bsp.o
+ .debug_macro   0x0000000000000fcf       0x6a build/obj/src/bsp.o
+ .debug_macro   0x0000000000001039      0x1df build/obj/src/bsp.o
+ .debug_macro   0x0000000000001218       0x22 build/obj/src/bsp.o
+ .debug_macro   0x000000000000123a       0x3a build/obj/src/bsp.o
+ .debug_macro   0x0000000000001274       0x10 build/obj/src/bsp.o
+ .debug_macro   0x0000000000001284       0x79 build/obj/src/bsp.o
+ .debug_macro   0x00000000000012fd       0x22 build/obj/src/bsp.o
+ .debug_macro   0x000000000000131f       0x1c build/obj/src/bsp.o
+ .debug_macro   0x000000000000133b       0x22 build/obj/src/bsp.o
+ .debug_macro   0x000000000000135d       0xd9 build/obj/src/bsp.o
+ .debug_macro   0x0000000000001436     0x102d build/obj/src/bsp.o
+ .debug_macro   0x0000000000002463      0x11f build/obj/src/bsp.o
+ .debug_macro   0x0000000000002582      0x2c3 build/obj/src/bsp.o
+ .debug_macro   0x0000000000002845      0x112 build/obj/src/bsp.o
+ .debug_macro   0x0000000000002957       0x11 build/obj/src/bsp.o
+ .debug_macro   0x0000000000002968       0x2a build/obj/src/bsp.o
+ .debug_macro   0x0000000000002992       0x16 build/obj/src/bsp.o
+ .debug_macro   0x00000000000029a8      0x2e6 build/obj/src/bsp.o
+ .debug_macro   0x0000000000002c8e       0x82 build/obj/src/bsp.o
+ .debug_macro   0x0000000000002d10      0x13d build/obj/src/bsp.o
+ .debug_macro   0x0000000000002e4d      0x198 build/obj/src/bsp.o
+ .debug_macro   0x0000000000002fe5       0x34 build/obj/src/bsp.o
+ .debug_macro   0x0000000000003019       0x58 build/obj/src/bsp.o
+ .debug_macro   0x0000000000003071      0x236 build/obj/src/bsp.o
+ .debug_macro   0x00000000000032a7      0x572 build/obj/src/bsp.o
+ .debug_macro   0x0000000000003819       0x16 build/obj/src/bsp.o
+ .debug_macro   0x000000000000382f      0x18a build/obj/src/bsp.o
+ .debug_macro   0x00000000000039b9       0x88 build/obj/src/bsp.o
+ .debug_macro   0x0000000000003a41      0x1b9 build/obj/src/bsp.o
+ .debug_macro   0x0000000000003bfa      0x1da build/obj/src/bsp.o
+ .debug_macro   0x0000000000003dd4       0x40 build/obj/src/bsp.o
+ .debug_macro   0x0000000000003e14       0x1c build/obj/src/bsp.o
+ .debug_macro   0x0000000000003e30       0x2e build/obj/src/bsp.o
+ .debug_macro   0x0000000000003e5e       0x2e build/obj/src/bsp.o
+ .debug_macro   0x0000000000003e8c       0x22 build/obj/src/bsp.o
+ .debug_macro   0x0000000000003eae      0x201 build/obj/src/bsp.o
+ .debug_macro   0x00000000000040af       0xe0 build/obj/src/bsp.o
+ .debug_macro   0x000000000000418f      0x34c build/obj/src/bsp.o
+ .debug_macro   0x00000000000044db       0xdc build/obj/src/bsp.o
+ .debug_macro   0x00000000000045b7       0xc4 build/obj/src/bsp.o
+ .debug_macro   0x000000000000467b       0x8f build/obj/src/bsp.o
+ .debug_macro   0x000000000000470a       0x94 build/obj/src/bsp.o
+ .debug_macro   0x000000000000479e       0xb8 build/obj/src/bsp.o
+ .debug_macro   0x0000000000004856       0x4c build/obj/src/bsp.o
+ .debug_macro   0x00000000000048a2       0x16 build/obj/src/bsp.o
+ .debug_macro   0x00000000000048b8      0x328 build/obj/src/bsp.o
+ .debug_macro   0x0000000000004be0       0x3a build/obj/src/bsp.o
+ .debug_macro   0x0000000000004c1a       0xd0 build/obj/src/bsp.o
+ .debug_macro   0x0000000000004cea       0x18 build/obj/src/bsp.o
+ .debug_macro   0x0000000000004d02       0x22 build/obj/src/bsp.o
+ .debug_macro   0x0000000000004d24       0x40 build/obj/src/bsp.o
+ .debug_macro   0x0000000000004d64      0x2bc build/obj/src/bsp.o
+ .debug_macro   0x0000000000005020      0x325 build/obj/src/digital.o
+ .debug_macro   0x0000000000005345      0x33f build/obj/src/main.o
+ .debug_macro   0x0000000000005684      0x2b6 build/obj/src/main.o
+ .debug_macro   0x000000000000593a      0x137 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005a71       0x34 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005aa5       0x64 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005b09       0x1e build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005b27       0x35 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005b5c       0x34 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005b90      0x174 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005d04       0x16 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005d1a       0x43 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005d5d       0x34 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005d91       0x10 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005da1       0x58 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005df9      0x182 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000005f7b      0x341 build/obj/src/pantalla.o
+ .debug_macro   0x00000000000062bc       0x10 build/obj/src/pantalla.o
+ .debug_macro   0x00000000000062cc       0x35 build/obj/src/pantalla.o
+ .debug_macro   0x0000000000006301       0x1d build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+ .debug_macro   0x000000000000631e      0x48c build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x00000000000067aa       0x73 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x000000000000681d       0x16 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006833       0x97 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x00000000000068ca       0xfd build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x00000000000069c7       0x10 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x00000000000069d7       0x10 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x00000000000069e7       0x1c build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006a03       0x52 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006a55       0x22 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006a77       0x10 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006a87       0x52 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006ad9       0xd5 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006bae       0x1c build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006bca       0x3d build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006c07       0x16 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006c1d      0x16f build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006d8c       0x20 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006dac      0x109 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_macro   0x0000000000006eb5      0x49e build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .debug_macro   0x0000000000007353      0x48c build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+ .debug_macro   0x00000000000077df      0x315 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+ .debug_macro   0x0000000000007af4      0x315 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
+ .debug_macro   0x0000000000007e09      0x31b build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+ .debug_macro   0x0000000000008124      0x315 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
+ .debug_macro   0x0000000000008439      0x327 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+ .debug_macro   0x0000000000008760      0x315 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+ .debug_macro   0x0000000000008a75      0x315 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x0000000000008d8a      0x315 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
 
-.debug_line     0x0000000000000000     0xa3b0
- .debug_line    0x0000000000000000      0x945 build/obj/src/bsp.o
- .debug_line    0x0000000000000945      0xa96 build/obj/src/digital.o
- .debug_line    0x00000000000013db      0x2a2 build/obj/src/main.o
- .debug_line    0x000000000000167d      0x9a9 build/obj/src/pantalla.o
- .debug_line    0x0000000000002026      0x222 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
- .debug_line    0x0000000000002248      0x9ce build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_line    0x0000000000002c16      0xe23 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
- .debug_line    0x0000000000003a39      0xa96 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
- .debug_line    0x00000000000044cf      0xa38 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
- .debug_line    0x0000000000004f07      0x858 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
- .debug_line    0x000000000000575f     0x1155 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
- .debug_line    0x00000000000068b4      0x7c2 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
- .debug_line    0x0000000000007076      0xe6a build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
- .debug_line    0x0000000000007ee0      0xe38 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
- .debug_line    0x0000000000008d18      0x940 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
- .debug_line    0x0000000000009658      0xd58 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+.debug_line     0x0000000000000000     0xa3f0
+ .debug_line    0x0000000000000000      0x9fe build/obj/src/bsp.o
+ .debug_line    0x00000000000009fe      0xa96 build/obj/src/digital.o
+ .debug_line    0x0000000000001494      0x80e build/obj/src/main.o
+ .debug_line    0x0000000000001ca2      0x3c4 build/obj/src/pantalla.o
+ .debug_line    0x0000000000002066      0x222 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+ .debug_line    0x0000000000002288      0x9ce build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_line    0x0000000000002c56      0xe23 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .debug_line    0x0000000000003a79      0xa96 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+ .debug_line    0x000000000000450f      0xa38 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+ .debug_line    0x0000000000004f47      0x858 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
+ .debug_line    0x000000000000579f     0x1155 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+ .debug_line    0x00000000000068f4      0x7c2 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
+ .debug_line    0x00000000000070b6      0xe6a build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+ .debug_line    0x0000000000007f20      0xe38 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+ .debug_line    0x0000000000008d58      0x940 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+ .debug_line    0x0000000000009698      0xd58 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
 
-.debug_str      0x0000000000000000    0x1e811
- .debug_str     0x0000000000000000    0x17c2e build/obj/src/bsp.o
-                                      0x17e1a (size before relaxing)
- .debug_str     0x0000000000017c2e      0x1d2 build/obj/src/digital.o
+.debug_str      0x0000000000000000    0x1e8ac
+ .debug_str     0x0000000000000000    0x17dfb build/obj/src/bsp.o
+                                      0x17fe7 (size before relaxing)
+ .debug_str     0x0000000000017dfb      0x1d2 build/obj/src/digital.o
                                       0x1747e (size before relaxing)
- .debug_str     0x0000000000017e00      0x112 build/obj/src/main.o
-                                       0x3e31 (size before relaxing)
- .debug_str     0x0000000000017f12     0x2c0e build/obj/src/pantalla.o
-                                      0x1a908 (size before relaxing)
- .debug_str     0x000000000001ab20      0x27c build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+ .debug_str     0x0000000000017fcd       0x51 build/obj/src/main.o
+                                      0x17345 (size before relaxing)
+ .debug_str     0x000000000001801e     0x2b9d build/obj/src/pantalla.o
+                                       0x6980 (size before relaxing)
+ .debug_str     0x000000000001abbb      0x27c build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
                                        0x2f55 (size before relaxing)
- .debug_str     0x000000000001ad9c     0x15f1 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_str     0x000000000001ae37     0x15f1 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
                                       0x1a8ee (size before relaxing)
- .debug_str     0x000000000001c38d      0x83e build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .debug_str     0x000000000001c428      0x83e build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
                                       0x1bb8a (size before relaxing)
- .debug_str     0x000000000001cbcb      0x331 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+ .debug_str     0x000000000001cc66      0x331 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
                                       0x1b5f1 (size before relaxing)
- .debug_str     0x000000000001cefc      0x264 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+ .debug_str     0x000000000001cf97      0x264 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
                                       0x17073 (size before relaxing)
- .debug_str     0x000000000001d160      0x10c build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
+ .debug_str     0x000000000001d1fb      0x10c build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
                                       0x17546 (size before relaxing)
- .debug_str     0x000000000001d26c      0x627 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+ .debug_str     0x000000000001d307      0x627 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
                                       0x17ad3 (size before relaxing)
- .debug_str     0x000000000001d893       0x93 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
+ .debug_str     0x000000000001d92e       0x93 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
                                       0x16866 (size before relaxing)
- .debug_str     0x000000000001d926      0x600 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+ .debug_str     0x000000000001d9c1      0x600 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
                                       0x1780e (size before relaxing)
- .debug_str     0x000000000001df26      0x44c build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+ .debug_str     0x000000000001dfc1      0x44c build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
                                       0x1726d (size before relaxing)
- .debug_str     0x000000000001e372      0x112 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+ .debug_str     0x000000000001e40d      0x112 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
                                       0x17518 (size before relaxing)
- .debug_str     0x000000000001e484      0x38d build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+ .debug_str     0x000000000001e51f      0x38d build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
                                       0x1768e (size before relaxing)
 
 .comment        0x0000000000000000       0x49
@@ -3036,34 +3031,33 @@ LOAD linker stubs
  .ARM.attributes
                 0x00000000000003c0       0x32 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/softfp/libc_nano.a(lib_a-memset.o)
 
-.debug_frame    0x0000000000000000     0x2534
- .debug_frame   0x0000000000000000      0x160 build/obj/src/bsp.o
- .debug_frame   0x0000000000000160      0x294 build/obj/src/digital.o
- .debug_frame   0x00000000000003f4       0x30 build/obj/src/main.o
- .debug_frame   0x0000000000000424      0x130 build/obj/src/pantalla.o
- .debug_frame   0x0000000000000554      0x1b8 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
- .debug_frame   0x000000000000070c       0x54 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
- .debug_frame   0x0000000000000760      0x4f4 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
- .debug_frame   0x0000000000000c54       0xe0 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
- .debug_frame   0x0000000000000d34      0x264 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
- .debug_frame   0x0000000000000f98       0xa0 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
- .debug_frame   0x0000000000001038      0x568 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
- .debug_frame   0x00000000000015a0       0x60 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
- .debug_frame   0x0000000000001600      0x4c8 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
- .debug_frame   0x0000000000001ac8      0x3e8 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
- .debug_frame   0x0000000000001eb0       0xf4 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
- .debug_frame   0x0000000000001fa4      0x4e4 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
- .debug_frame   0x0000000000002488       0x2c /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_aeabi_uldivmod.o)
- .debug_frame   0x00000000000024b4       0x34 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_udivmoddi4.o)
- .debug_frame   0x00000000000024e8       0x2c /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/softfp/libc_nano.a(lib_a-init.o)
- .debug_frame   0x0000000000002514       0x20 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/softfp/libc_nano.a(lib_a-memset.o)
+.debug_frame    0x0000000000000000     0x2550
+ .debug_frame   0x0000000000000000      0x230 build/obj/src/bsp.o
+ .debug_frame   0x0000000000000230      0x294 build/obj/src/digital.o
+ .debug_frame   0x00000000000004c4       0x30 build/obj/src/main.o
+ .debug_frame   0x00000000000004f4       0x7c build/obj/src/pantalla.o
+ .debug_frame   0x0000000000000570      0x1b8 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
+ .debug_frame   0x0000000000000728       0x54 build/lib/boards/edu-ciaa-nxp.a(sysinit.o)
+ .debug_frame   0x000000000000077c      0x4f4 build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
+ .debug_frame   0x0000000000000c70       0xe0 build/lib/boards/edu-ciaa-nxp.a(board_sysinit.o)
+ .debug_frame   0x0000000000000d50      0x264 build/lib/boards/edu-ciaa-nxp.a(adc_18xx_43xx.o)
+ .debug_frame   0x0000000000000fb4       0xa0 build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
+ .debug_frame   0x0000000000001054      0x568 build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
+ .debug_frame   0x00000000000015bc       0x60 build/lib/boards/edu-ciaa-nxp.a(gpio_18xx_43xx.o)
+ .debug_frame   0x000000000000161c      0x4c8 build/lib/boards/edu-ciaa-nxp.a(i2c_18xx_43xx.o)
+ .debug_frame   0x0000000000001ae4      0x3e8 build/lib/boards/edu-ciaa-nxp.a(ssp_18xx_43xx.o)
+ .debug_frame   0x0000000000001ecc       0xf4 build/lib/boards/edu-ciaa-nxp.a(sysinit_18xx_43xx.o)
+ .debug_frame   0x0000000000001fc0      0x4e4 build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
+ .debug_frame   0x00000000000024a4       0x2c /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000000024d0       0x34 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000002504       0x2c /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/softfp/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000002530       0x20 /usr/local/share/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/softfp/libc_nano.a(lib_a-memset.o)
 
 Cross Reference Table
 
 Symbol                                            File
 ActivaEntradaDigital                              build/obj/src/digital.o
 ActivarSalidaDigital                              build/obj/src/digital.o
-ApagarPantalla                                    build/obj/src/pantalla.o
 AsignarEntradaDigital                             build/obj/src/digital.o
 AsignarSalidaDigital                              build/obj/src/digital.o
 BoardCreate                                       build/obj/src/bsp.o
@@ -3225,23 +3219,18 @@ Chip_USB1_Init                                    build/lib/boards/edu-ciaa-nxp.
 CrearEntradaDigital                               build/obj/src/digital.o
                                                   build/obj/src/bsp.o
 CrearPantalla                                     build/obj/src/pantalla.o
-                                                  build/obj/src/main.o
+                                                  build/obj/src/bsp.o
 CrearSalidaDigital                                build/obj/src/digital.o
                                                   build/obj/src/bsp.o
 DebugMon_Handler                                  build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
 DesactivaEntradaDigital                           build/obj/src/digital.o
 DesactivarSalidaDigital                           build/obj/src/digital.o
-EscribirNumero                                    build/obj/src/pantalla.o
 EscribirPantallaBCD                               build/obj/src/pantalla.o
                                                   build/obj/src/main.o
 ExtRateIn                                         build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
                                                   build/lib/boards/edu-ciaa-nxp.a(clock_18xx_43xx.o)
 GetStateEntradaDigital                            build/obj/src/digital.o
 HardFault_Handler                                 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
-InicializarDigitos                                build/obj/src/bsp.o
-InicializarSegmentos                              build/obj/src/bsp.o
-InicializarTeclas                                 build/obj/src/bsp.o
-InicializarZumbador                               build/obj/src/bsp.o
 MemManage_Handler                                 build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
 NMI_Handler                                       build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
 OscRateIn                                         build/lib/boards/edu-ciaa-nxp.a(board_lpcopen.o)
@@ -3260,7 +3249,6 @@ RingBuffer_Pop                                    build/lib/boards/edu-ciaa-nxp.
 RingBuffer_PopMult                                build/lib/boards/edu-ciaa-nxp.a(ring_buffer.o)
                                                   build/lib/boards/edu-ciaa-nxp.a(uart_18xx_43xx.o)
 SVC_Handler                                       build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
-SeleccionarDigito                                 build/obj/src/pantalla.o
 SysTick_Handler                                   build/lib/boards/edu-ciaa-nxp.a(armv7m_startup.o)
 SystemCoreClock                                   build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
 SystemCoreClockUpdate                             build/lib/boards/edu-ciaa-nxp.a(chip_18xx_43xx.o)
