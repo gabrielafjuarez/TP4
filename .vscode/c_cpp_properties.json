@@ -3,7 +3,8 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/var/lib/gems/2.7.0/gems/ceedling-0.31.1/vendor/**"
             ],
             "defines": [],
             "compilerPath": "/usr/local/bin/arm-none-eabi-gcc",
