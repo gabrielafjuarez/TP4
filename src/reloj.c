@@ -3,7 +3,7 @@
 
 #define SIZE_TIEMPO 6
 #define VALOR_INICIAL 0
-#define UNIDADES_SEGUNDOS 5
+#define UNIDAD_SEGUNDOS 5
 
 struct reloj_s{
     bool valida;
@@ -37,6 +37,10 @@ void NuevoTickReloj(reloj_t reloj){
     reloj->cuenta_ticks++;
     if(reloj->cuenta_ticks == reloj->ticks_por_segundo){
         reloj->cuenta_ticks =0;
-        reloj->tiempo[UNIDADES_SEGUNDOS]++;//los segundos estan en el 5to lugar del arreglo
+        reloj->tiempo[UNIDAD_SEGUNDOS]++;//los segundos estan en el 5to lugar del arreglo
+        if (reloj->tiempo[UNIDAD_SEGUNDOS] == 10){
+            reloj->tiempo[UNIDAD_SEGUNDOS] = 0;
+            reloj->tiempo[4]++;
+        }
     }
 }
