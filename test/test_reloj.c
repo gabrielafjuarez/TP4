@@ -5,6 +5,7 @@
 
 reloj_t reloj;
 
+
 //Creo el reloj y lo pongo en hora
 void setUp (void){
     static const uint8_t INICIAL[] = {1, 2, 3, 4};
